@@ -21,7 +21,7 @@ function Page5(){
         										graphics. They brought our vision to life with creativity and precision."</div>
 		        						</div>
 				        				<div class="info-box">
-						        			<figure class="thumb"><img src="images/resource/testi-thumb.png" alt /></figure>
+						        			<figure class="thumb"><img src="images/resource/testi-thumb.png" alt="" /></figure>
  								        	<div class="rating">
         										<i class="fa fa-star"></i>
 		         								<i class="fa fa-star"></i>
@@ -43,7 +43,7 @@ function Page5(){
         										digital presence."</div>
 		        						</div>
 				        				<div class="info-box">
-						       			<figure class="thumb"><img src="images/resource/testi-thumb-2.png" alt /></figure>
+						       			<figure class="thumb"><img src="images/resource/testi-thumb-2.png" alt="" /></figure>
         									<div class="rating">
 		        								<i class="fa fa-star"></i>
 				        						<i class="fa fa-star"></i>
@@ -65,7 +65,7 @@ function Page5(){
 										        optimized.</div>
         								</div>
 		         						<div class="info-box">
-				        					<figure class="thumb"><img src="images/resource/testi-thumb-3.png" alt /></figure>
+				        					<figure class="thumb"><img src="images/resource/testi-thumb-3.png" alt="" /></figure>
 						        			<div class="rating">
 								        		<i class="fa fa-star"></i>
 										        <i class="fa fa-star"></i>

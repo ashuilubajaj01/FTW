@@ -38,14 +38,14 @@ function Page3(){
 										     Engagement.</div>
 								    </div>
 							    </div>
-							    <a href="#" class="theme-btn btn-style-one"><span class="btn-title">Discover more</span></a>
+							    <a href="index.html" class="theme-btn btn-style-one"><span class="btn-title">Discover more</span></a>
 						        </div>
 					        </div>
 
 					        <div class="image-column col-lg-6 col-md-12 wow fadeInLEft" data-wow-delay="600ms">
 						        <div class="inner-column">
-							        <figure class="image-1 anim-overlay"><img src="images/resource/about2-1.jpg" alt /></figure>
-							        <figure class="image-2 anim-overlay"><img src="images/resource/about2-2.jpg" alt /></figure>
+							        <figure class="image-1 anim-overlay"><img src="images/resource/about2-1.jpg" alt="" /></figure>
+							        <figure class="image-2 anim-overlay"><img src="images/resource/about2-2.jpg" alt="" /></figure>
 							        <div class="exp-box">30+ Years<br /> of Experience</div>
 						        </div>
 					        </div>

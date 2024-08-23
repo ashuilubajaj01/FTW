@@ -26,7 +26,7 @@ function Page4(){
         						<div class="service-block-two">
     	    						<div class="inner-box">
 	    	    						<div class="image-box">
-		    	    						<figure class="image"><img src="images/resource/service-1.jpg" alt /></figure>
+		    	    						<figure class="image"><img src="images/resource/service-1.jpg" alt="" /></figure>
 			    	     				</div>
      					    			<div class="content-box">
 	     			    					<i class="icon flaticon-front-end"></i>
@@ -48,7 +48,7 @@ function Page4(){
     	    					<div class="service-block-two">
 	    	    					<div class="inner-box">
 		    	    					<div class="image-box">
-			    	    					<figure class="image"><img src="images/resource/service-2.jpg" alt /></figure>
+			    	    					<figure class="image"><img src="images/resource/service-2.jpg" alt="" /></figure>
 				    	    			</div>
 					    	    		<div class="content-box">
 						    	    		<i class="icon flaticon-concept"></i>
@@ -68,7 +68,7 @@ function Page4(){
         						<div class="service-block-two">
 	        						<div class="inner-box">
 		        						<div class="image-box">
-			        						<figure class="image"><img src="images/resource/service-3.jpg" alt /></figure>
+			        						<figure class="image"><img src="images/resource/service-3.jpg" alt="" /></figure>
 				        				</div>
 					        			<div class="content-box">
 						        			<i class="icon flaticon-android"></i>
@@ -90,7 +90,7 @@ function Page4(){
         						<div class="service-block-two">
 	         						<div class="inner-box">
 		        						<div class="image-box">
-			        						<figure class="image"><img src="images/resource/service-4.jpg" alt /></figure>
+			        						<figure class="image"><img src="images/resource/service-4.jpg" alt="" /></figure>
 				        				</div>
 					        			<div class="content-box">
 						        			<i class="icon flaticon-access"></i>
@@ -112,7 +112,7 @@ function Page4(){
     		    				<div class="service-block-two">
 	    		    				<div class="inner-box">
     	    							<div class="image-box">
-	    	    							<figure class="image"><img src="images/resource/service-5.jpg" alt /></figure>
+	    	    							<figure class="image"><img src="images/resource/service-5.jpg" alt="" /></figure>
 		    	    					</div>
     			    					<div class="content-box">
 	    			    					<i class="icon flaticon-campaign"></i>

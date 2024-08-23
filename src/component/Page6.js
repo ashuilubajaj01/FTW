@@ -11,7 +11,10 @@ function Page6(){
  
         					<div class="image-column col-xl-6 col-lg-5 col-md-12 col-sm-12">
 		        				<div class="inner-column">
-				        			<div class="bg bg-image" style="background-image: url(images/background/2.jpg)"></div>
+								<div
+  className="bg bg-image"
+  style={{ backgroundImage: 'url(images/background/2.jpg)' }}
+></div>
 						        	<div class="faq-info-box wow fadeInLeft">
      	    							<div class="inner">
 	   		        						<i class="icon flaticon-verification"></i>
@@ -22,7 +25,7 @@ function Page6(){
 		            					</div>
         							</div>
         							<div class="image-box wow fadeInRight">
-		        						<figure class="image"><img src="images/resource/faq.jpg" alt /></figure>
+		        						<figure class="image"><img src="images/resource/faq.jpg" alt="" /></figure>
 				        			</div>
 						        </div>
          					</div>

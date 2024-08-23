@@ -67,11 +67,11 @@ function Page13(){
 								<h6 class="widget-title">Quick Links</h6>
 								<div class="widget-content">
 									<ul class="user-links">
-										<li><a href="">Home </a></li>
-										<li><a href="">About</a></li>
-										<li><a href="">Peojects</a></li>
-										<li><a href="">Service</a></li>
-										<li><a href="">Contact</a></li>
+										<li><a href="index.html">Home </a></li>
+										<li><a href="index.html">About</a></li>
+										<li><a href="index.html">Peojects</a></li>
+										<li><a href="index.html">Service</a></li>
+										<li><a href="index.html">Contact</a></li>
 									</ul>
 								</div>
 							</div>
@@ -84,27 +84,27 @@ function Page13(){
 									<div class="outer">
 										<figure class="image">
 											<a href="index.php#"><img
-													src="images/resource/project-thumb-1.jpg" alt /></a>
+													src="images/resource/project-thumb-1.jpg" alt="" /></a>
 										</figure>
 										<figure class="image">
 											<a href="index.php#"><img
-													src="images/resource/project-thumb-2.jpg" alt /></a>
+													src="images/resource/project-thumb-2.jpg" alt="" /></a>
 										</figure>
 										<figure class="image">
 											<a href="index.php#"><img
-													src="images/resource/project-thumb-3.jpg" alt /></a>
+													src="images/resource/project-thumb-3.jpg" alt="" /></a>
 										</figure>
 										<figure class="image">
 											<a href="index.php#"><img
-													src="images/resource/project-thumb-4.jpg" alt /></a>
+													src="images/resource/project-thumb-4.jpg" alt="" /></a>
 										</figure>
 										<figure class="image">
 											<a href="index.php#"><img
-													src="images/resource/project-thumb-5.jpg" alt /></a>
+													src="images/resource/project-thumb-5.jpg" alt="" /></a>
 										</figure>
 										<figure class="image">
 											<a href="index.php#"><img
-													src="images/resource/project-thumb-6.jpg" alt /></a>
+													src="images/resource/project-thumb-6.jpg" alt="" /></a>
 										</figure>
 									</div>
 								</div>
@@ -137,8 +137,13 @@ function Page13(){
 				<div class="auto-container">
 					<div class="row">
 						<div class="logo-column col-lg-4 col-md-4 order-2">
-							<div class="footer-logo"><img style="width: 40px;height: 40px;" src="images/logor.png" alt />
-							</div>
+						<div className="footer-logo">
+  <img
+    style={{ width: '40px', height: '40px' }}
+    src="images/logor.png"
+    alt="Footer logo"
+  />
+</div>
 						</div>
 						<div class="links-column col-lg-4 col-md-4 order-3">
 							<ul class="footer-links">

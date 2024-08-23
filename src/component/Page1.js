@@ -1,4 +1,5 @@
 import React from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Page1(){
 
@@ -22,14 +23,14 @@ function Page1(){
                             <ul class="useful-links">
                                {/* <!-- <li><a href="index.php#">Help</a></li> -->
                                 <!-- <li><a href="index.php#">Support</a></li> --> */}
-                               <li><a href="">Contact</a></li>
+                               <li><a href="index.html">Contact</a></li>
                             </ul>
                             <ul class="social-icon-one">
                                 {/* <!-- <li><a href="index.php#"><span class="fab fa-twitter"></span></a></li> --> */}
-                               <li><a href=""><span
+                               <li><a href="index.html"><span
                                              class="fab fa-facebook-square"></span></a></li>
                                {/* <!-- <li><a href="index.php#"><span class="fab fa-pinterest-p"></span></a></li> --> */}
-                              <li><a href="https://www.linkedin.com/in/ashutosh-bajaj-a51588175/"><span
+                              <li><a href="index.html"><span
                                            class="fab fa-linkedin"></span></a></li>
                             </ul>
                         </div>
@@ -40,8 +41,8 @@ function Page1(){
 
                     <div class="main-box">
                        <div class="logo-box">
-                            <div class="logo"><a href="index.html"><img style="width: 70px;height: 70px;"
-                                        src="" alt title="FTW"/></a></div>
+                            <div class="logo"><a href="index.html"><img style={{ width: '70px', height: '70px' }}
+                                        src="" alt="" title="FTW"/></a></div>
                         </div>
 
                        <div class="nav-outer">
@@ -66,7 +67,7 @@ function Page1(){
                             <button class="ui-btn ui-btn search-btn">
                                <span class="icon lnr lnr-icon-search"></span>
                             </button>
-                            <a href="index.html#" class="theme-btn btn-style-one dark-bg"><span
+                            <a href="index.html" class="theme-btn btn-style-one dark-bg"><span
                                      class="btn-title">Get a quote</span></a>
 
                              <div class="mobile-nav-toggler"><span class="icon lnr-icon-bars"></span></div>
@@ -79,7 +80,7 @@ function Page1(){
 
                     <nav class="menu-box">
                         <div class="upper-box">
-                            <div class="nav-logo"><a href="index.html"><img src="" alt title /></a></div>
+                            <div class="nav-logo"><a href="index.html"><img src="" alt="" /></a></div>
                             <div class="close-btn"><i class="icon fa fa-times"></i></div>
                         </div>
                         <ul class="navigation onepage-nav clearfix">
@@ -113,10 +114,10 @@ function Page1(){
                         </ul>
                         <ul class="social-links">
                             {/* <!-- <li><a href="index.php#"><i class="fab fa-twitter"></i></a></li> --> */}
-                                <li><a href=""><i
+                                <li><a href="index.html"><i
                                            class="fab fa-facebook-f"></i></a></li>
                             {/* <!-- <li><a href="index.php#"><i class="fab fa-pinterest"></i></a></li> --> */}
-                           <li><a href=""><i
+                           <li><a href="index.html"><i
                                       class="fab fa-instagram"></i></a></li>
                         </ul>
                     </nav>
@@ -141,7 +142,7 @@ function Page1(){
                         <div class="inner-container">
 
                             <div class="logo">
-                                <a href="index.html" title><img src="images/logor.png" alt title /></a>
+                                <a href="index.html" title><img src="" alt="" /></a>
                             </div>
 
                            <div class="nav-outer">

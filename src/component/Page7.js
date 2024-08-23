@@ -16,7 +16,7 @@ function Page7(){
 	    						<div class="inner-box">
 		    						<div class="image-box">
 			    						<figure class="image"><a href="page-project-details.php"><img
-				    								src="images/resource/project2-1.jpg" alt /></a></figure>
+				    								src="images/resource/project2-1.jpg" alt="" /></a></figure>
 					    				<a href="page-project-details.php" class="read-more"><i
 						     					class="fa fa-long-arrow-alt-right"></i></a>
 							    	</div>
@@ -32,7 +32,7 @@ function Page7(){
 	    						<div class="inner-box">
 		    						<div class="image-box">
 			    						<figure class="image"><a href="page-project-details.php"><img
-				    								src="images/resource/project2-2.jpg" alt /></a></figure>
+				    								src="images/resource/project2-2.jpg" alt="" /></a></figure>
 					    				<a href="page-project-details.php" class="read-more"><i
 						    					class="fa fa-long-arrow-alt-right"></i></a>
 							    	</div>
@@ -48,7 +48,7 @@ function Page7(){
 	    						<div class="inner-box">
 		    						<div class="image-box">
 			    						<figure class="image"><a href="page-project-details.php"><img
-				    								src="images/resource/project2-3.jpg" alt /></a></figure>
+				    								src="images/resource/project2-3.jpg" alt="" /></a></figure>
 					    				<a href="page-project-details.php" class="read-more"><i
 						    					class="fa fa-long-arrow-alt-right"></i></a>
 							    	</div>
@@ -64,7 +64,7 @@ function Page7(){
 	    						<div class="inner-box">
 		    						<div class="image-box">
 			    						<figure class="image"><a href="page-project-details.php"><img
-				    								src="images/resource/project2-4.jpg" alt /></a></figure>
+				    								src="images/resource/project2-4.jpg" alt="" /></a></figure>
 					    				<a href="page-project-details.php" class="read-more"><i
 						    					class="fa fa-long-arrow-alt-right"></i></a>
 							    	</div>

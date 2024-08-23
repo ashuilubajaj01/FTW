@@ -5,11 +5,14 @@ function Page11(){
     return(
         <div className="page11">
             <section class="call-to-action-two pt-0">
-    			<div class="bg bg-image pull-up" style="background-image: url(images/background/4.png)"></div>
+			<div
+  className="bg bg-image pull-up"
+  style={{ backgroundImage: 'url(images/background/4.png)' }}
+></div>
 	    		<div class="auto-container">
 		    		<h2 class="title">Let’s Get Started New Project.</h2>
 			    	<div class="text"></div>
-				    <a href="#" class="theme-btn btn-style-one light-bg"><span class="btn-title">Discover more</span></a>
+				    <a href="index.html" class="theme-btn btn-style-one light-bg"><span class="btn-title">Discover more</span></a>
     			</div>
 	    	</section>
 
